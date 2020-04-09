@@ -25,6 +25,8 @@ I encountered issues when transferring files between the VM and my local OS. Thi
 
 All Attacks:
 
- - Dionaea with HTTP(honeypot-1) = 9219
+ - Dionaea with HTTP(honeypot-1) = 2401
  
 ![Image of Attacks](Attacks.jpeg)
+
+<img src="Attacks.gif" width="800">
