@@ -28,5 +28,3 @@ All Attacks:
  - Dionaea with HTTP(honeypot-1) = 2401
  
 ![Image of Attacks](Attacks.jpeg)
-
-<img src="Attacks.gif" width="800">
